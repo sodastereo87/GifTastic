@@ -1,0 +1,26 @@
+button,
+form,
+input {
+    margin: 10px;
+}
+
+body {
+    background-color: rgb(131, 183, 185)
+}
+
+div {
+    padding-bottom: 10px; 
+}
+
+.container {
+    text-align: center;
+}
+
+.form-control {
+    width: 25%;
+    margin: 0 auto;
+}
+
+
+
+
