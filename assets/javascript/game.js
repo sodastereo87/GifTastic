@@ -23,7 +23,7 @@ var carsArray = ["Camaro", "Mustang", "Porche", "Lamborgini", "Ferrari", "BMW", 
 // calling the ajax funtion to get a gif from giphy using the url and api key
             function searchGif(gifName) {
                 $.ajax({
-                    url: 'https://api.giphy.com/v1/gifs/search?q= ' + gifName + ' &api_key=dc6zaTOxFJmzC&limit=10',
+                    url: 'https://api.giphy.com/v1/gifs/search?q= ' + gifName + ' &api_key=8W8D8bUSPYuzbtf4qQNOSQE47jbA2o1H&limit=10',
                     type: 'GET',
                 })
                     .done(function (response) {
